@@ -30,3 +30,8 @@ C++ · Git · GitHub
 
 Built while learning the fundamentals of programming.
 This update was created on the feature-update branch for GitHub collaboration practice.
+
+## Projects
+
+### Hello World
+A simple C++ Hello World project created as part of my portfolio-building activities.
