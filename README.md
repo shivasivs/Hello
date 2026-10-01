@@ -31,6 +31,13 @@ C++ · Git · GitHub
 Built while learning the fundamentals of programming.
 This update was created on the feature-update branch for GitHub collaboration practice.
 
+## Collaboration Log
+
+- **Partner:** Srujan R
+- **GitHub username:** [enter Srujan's GitHub username]
+- **What we built:** Added a `greet()` function to the Hello World program using Live Share.
+- **What I learned:** I learned how Live Share allows two people to work on the same code in real time and how GitLens shows who changed each line.
+
 ## Projects
 
 ### Hello World
